@@ -12,8 +12,8 @@ class WhatsAppMassReporter:
         self.report_urls = [
             "https://faq.whatsapp.com/1297640017664693/",
             "https://www.whatsapp.com/contact/", 
-            "https://support.whatsapp.com/",
-            "https://api.whatsapp.com/support"
+            "https://www.whatsapp.com/contact/?subject=messengerId",
+            "https://www.whatsapp.com/contact/?subject=messenger"
         ]
         self.anonymouse_urls = [
             "https://anonymouse.org/cgi-bin/anon-email.cgi",
